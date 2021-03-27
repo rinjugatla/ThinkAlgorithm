@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkAlgorithm", "ThinkAlgorithm\ThinkAlgorithm.csproj", "{CE57402D-BCC3-4CFC-AEB4-051391BFBAA8}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ThinkAlgorithmVB", "ThinkAlgorithmVB\ThinkAlgorithmVB.vbproj", "{048092ED-65A4-43BB-8F2F-E1B7B170B8B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE57402D-BCC3-4CFC-AEB4-051391BFBAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE57402D-BCC3-4CFC-AEB4-051391BFBAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE57402D-BCC3-4CFC-AEB4-051391BFBAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048092ED-65A4-43BB-8F2F-E1B7B170B8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048092ED-65A4-43BB-8F2F-E1B7B170B8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048092ED-65A4-43BB-8F2F-E1B7B170B8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048092ED-65A4-43BB-8F2F-E1B7B170B8B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
