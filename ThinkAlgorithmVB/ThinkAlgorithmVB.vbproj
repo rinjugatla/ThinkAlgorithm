@@ -85,6 +85,12 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Sample\A.vb" />
+    <Compile Include="Sample\B.vb" />
+    <Compile Include="Sample\C.vb" />
+    <Compile Include="Sample\D.vb" />
+    <Compile Include="Sample\E.vb" />
+    <Compile Include="Sample\Main.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -106,5 +112,6 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
